@@ -1,2 +1,2 @@
 # Django
-Repositorio creado para hacer segundo taller de la materia proyecto integrador I
+Repositorio creado para hacer el primer taller de la materia proyecto integrador I
